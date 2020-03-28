@@ -10,11 +10,26 @@
 
 
 
-#include<stdio.h> 
-void main() 
-{ 
+
+
+
+
+
+
+
+
+
+
+
+      #include<stdio.h> 
+     void main() 
+     { 
+	
+	
+	
 	int tq=2;  //time quantum is tq
 	int cnt,np,time=0;
+	  
 	  
 	  printf("\nSelect the Number of Processes\t "); 
 	  scanf("%d",&np); // np gives no of processes
